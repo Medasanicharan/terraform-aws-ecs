@@ -34,7 +34,6 @@ variable "container_image" {
 
 variable "container_port" {
   type    = number
-  # default = 8080
 }
 
 variable "task_cpu" {
